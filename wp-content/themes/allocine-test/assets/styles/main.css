@@ -1,0 +1,18 @@
+body
+{
+  margin: 0px;
+  font-size: 1.2em;
+  /*background: #440000;*/
+}
+
+a
+{
+  color: #C80000;
+  transition: color 0.3s;
+}
+
+a:hover
+{
+  color: #C800C8;
+  text-decoration: underline;
+}
