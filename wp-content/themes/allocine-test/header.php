@@ -17,6 +17,7 @@
         <header id="header">
         <div class="container">
           <div class="col-md-12">
+            <!-- <img src="assets/images/logo.jpg" alt="<?php bloginfo( "description" ) ?>"> -->
             <h1><?php bloginfo( "title" ) ?></h1>
             <h2><?php bloginfo( "description" ) ?></h2>
           </div>
